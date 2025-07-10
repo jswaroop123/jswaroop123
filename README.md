@@ -49,3 +49,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jswaroop123&show_icons=true&locale=en&layout=compact" alt="jswaroop123" /></p>
  
+![snake gif](https://github.com/jswaroop123/jswaroop123/blob/output/github-contribution-grid-snake.gif)
