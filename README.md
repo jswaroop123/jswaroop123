@@ -12,7 +12,7 @@
   </a>
 </p>
 
-<img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/jswaroop123](https://github.com/jswaroop123)  
