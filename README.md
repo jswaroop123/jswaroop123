@@ -15,7 +15,7 @@
 <img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 
-- 👨‍💻 All of my projects are available at [https://github.com/jswaroop123](https://github.com/jswaroop123)  
+- 👨‍💻 My portfolio [my-portfolio-five-nu-24.vercel.app](my-portfolio-five-nu-24.vercel.app)  
 - 💬 Ask me about **Fullstack & AI**  
 - 📫 How to reach me **my-portfolio-five-nu-24.vercel.app**
 ---
