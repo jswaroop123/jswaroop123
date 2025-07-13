@@ -15,7 +15,7 @@
 <img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 
-- 👨‍💻 My portfolio [My portfolio]([my-portfolio-five-nu-24.vercel.app/](https://vercel.com/jyothi-swaroop-ns-projects/my-portfolio))
+- 👨‍💻 My portfolio [My portfolio](https://vercel.com/jyothi-swaroop-ns-projects/my-portfolio))
 - 💬 Ask me about **Fullstack & AI**  
 - 📫 How to reach me **my-portfolio-five-nu-24.vercel.app**
 ---
