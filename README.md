@@ -15,9 +15,9 @@
 <img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 
-- 👨‍💻 My portfolio [My portfolio](https://my-portfolio-five-nu-24.vercel.app/)
+- 👨‍💻 How to reach me [My portfolio](https://my-portfolio-five-nu-24.vercel.app/)
 - 💬 Ask me about **Fullstack & AI**  
-- 📫 How to reach me **my-portfolio-five-nu-24.vercel.app**
+
 ---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
