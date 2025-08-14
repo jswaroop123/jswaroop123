@@ -15,8 +15,9 @@
 <img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 
-- 👨‍💻 How to reach me [My portfolio](https://my-portfolio-five-nu-24.vercel.app/)
-- 💬 Ask me about **Fullstack & AI**
+- 🔗 How to reach me [My portfolio](https://my-portfolio-five-nu-24.vercel.app/)
+- 🧑‍💻 Coding language **Java & Python**
+- 💬 Hands on experience **Fullstack & AI**
 - 🧠 Basic understanding of **Cloude computing & Cybersecurity** 
 
 ---
