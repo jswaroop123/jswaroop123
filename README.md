@@ -16,7 +16,8 @@
 
 
 - 👨‍💻 How to reach me [My portfolio](https://my-portfolio-five-nu-24.vercel.app/)
-- 💬 Ask me about **Fullstack & AI**  
+- 💬 Ask me about **Fullstack & AI**
+- 🧠 Basic understanding of **Cloude computing & Cybersecurity** 
 
 ---
 <h3 align="left">Connect with me:</h3>
