@@ -1,118 +1,76 @@
-<h1 align="center">Hey Everyone 👋, I'm Jyothi Swaroop N</h1>
+<div align="center">
 
-<h3 align="center">A Passionate Fullstack & AI Engineer from India 🇮🇳</h3>
+# Jyothi Swaroop N  
+### Full-Stack & AI Engineer 🚀
 
-<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Fullstack+Developer;AI+Engineer;Java+%7C+Python+Developer;Cloud+%26+Backend+Enthusiast" />
+
+<p>
   <a href="https://github.com/jswaroop123">
-    <img src="https://img.shields.io/github/followers/jswaroop123?label=Follow&style=social" />
+    <img src="https://img.shields.io/github/followers/jswaroop123?style=for-the-badge&logo=github&label=Followers"/>
   </a>
 
   <a href="https://linkedin.com/in/jyothi-swaroop-n-9446912a9">
-    <img src="https://img.shields.io/badge/LinkedIn-Jyothi%20Swaroop%20N-blue?logo=linkedin&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
   </a>
 
   <a href="https://my-portfolio-five-nu-24.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=vercel" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=vercel"/>
   </a>
 </p>
 
----
-
-<img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
-### 👨‍💻 About Me
-
-- 🔭 Building **Fullstack & AI Projects**
-- 🌱 Currently learning **Cloud, AI Integrations & System Design**
-- 💬 Ask me about **Java, Python, React, Node.js & AI**
-- ⚡ Passionate about **Technology, Innovation & Problem Solving**
-- 📫 Reach me at: **jyothiswaroopn@example.com**
+</div>
 
 ---
 
-<h3 align="left">🌐 Connect with me</h3>
+## 👨‍💻 About Me
 
-<p align="left">
-<a href="https://linkedin.com/in/jyothi-swaroop-n-9446912a9" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
-</a>
+<img align="right" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-<a href="https://instagram.com/jyothiswaro0p" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
-</a>
-</p>
-
----
-
-<h3 align="left">⚒️ Languages and Tools</h3>
-
-<p align="left" style="display:flex; flex-wrap:wrap; gap:12px;">
-
-<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="45" height="45"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="45" height="45"/>
-
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="45" height="45"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="45" height="45"/>
-
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45"/>
-
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="45" height="45"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/>
-
-</p>
+- 🔭 Building scalable **Full-Stack & AI applications**
+- 🌱 Exploring **Cloud, AI Agents & Vector Databases**
+- 💡 Strong interest in **Backend Systems & AI Engineering**
+- 🧠 Experience with **MERN Stack, PostgreSQL & Pinecone**
+- ⚡ Passionate about solving real-world problems using technology
+- 📍 From India 🇮🇳
 
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
+# ⚒️ Tech Stack
 
-<p align="center">
+<div align="center">
 
-<img 
-height="170" 
-src="https://github-readme-stats.vercel.app/api/top-langs?username=jswaroop123&show_icons=true&locale=en&layout=compact&theme=tokyonight" 
-alt="top langs" 
-/>
+### Languages
+<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript" />
 
-<img 
-height="170" 
-src="https://github-readme-stats.vercel.app/api?username=jswaroop123&show_icons=true&locale=en&theme=tokyonight" 
-alt="github stats" 
-/>
+### Frontend
+<img src="https://skillicons.dev/icons?i=react,tailwind,html,css" />
 
-</p>
+### Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
 
-<p align="center">
-<img 
-src="https://github-readme-streak-stats.herokuapp.com/?user=jswaroop123&theme=tokyonight" 
-alt="streak stats" 
-/>
-</p>
+### Database & Cloud
+<img src="https://skillicons.dev/icons?i=mysql,postgres,azure" />
+
+### Tools & Platforms
+<img src="https://skillicons.dev/icons?i=docker,git,linux,postman" />
+
+</div>
 
 ---
 
-<h3 align="center">🐍 Contribution Snake</h3>
+# 🐍 Contribution Snake
 
-<p align="center">
-<img src="https://github.com/jswaroop123/jswaroop123/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
-</p>
+<div align="center">
+
+![snake gif](https://github.com/jswaroop123/jswaroop123/blob/output/github-contribution-grid-snake.gif)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 “Code. Learn. Build. Repeat.”
+
+</div>
